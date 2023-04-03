@@ -1,0 +1,15 @@
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+D:\Latihan\CS\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Latihan\CS\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
